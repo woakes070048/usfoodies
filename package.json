@@ -1,0 +1,19 @@
+{
+  "name": "usfoodies",
+  "version": "1.0.0",
+  "description": "Food ordering made easy for the workplace. Place your order for a nearby restaurant and you or one of your coworkers will pick up everyone's food.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CollinRichman/usfoodies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CollinRichman/usfoodies/issues"
+  },
+  "homepage": "https://github.com/CollinRichman/usfoodies#readme"
+}
